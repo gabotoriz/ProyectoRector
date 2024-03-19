@@ -1,5 +1,16 @@
-# Uniiversidad Tres Culturas
+# Proyecto Rector
 
-## Proyecto: Programa para la resolucion de Ecuaciones Diferenciales
-## Maestro a cargo : Yolanda López Rocha
-## Materia: Ecuaciones Diferenciales
+## Universidad Tres Culturas
+
+## Proyecto
+
+Creacion de una aplicacion para la resolucion de Ecuaciones Diferenciales
+
+## Integrantes
+
+Garcìa Torìz Gabriel
+
+Ortìz Lòpez Dolores Denya
+
+
+
