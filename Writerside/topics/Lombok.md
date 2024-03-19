@@ -1,23 +1,13 @@
-# Programación
+# Lombok
 
-Al momento de seleccionar un lenguaje de programación existian muchas opciones
-* C
-* C++
-* Python
+Al momento de que se comenzo a hacer el proyecto mas grande vimos que uno de los problemas fue que al momento de que
+comenzará a hacerse mas grande el codigo, se comenzo a hacer mas dificil de entender.
 
-Sin ambargo se decidio por **JAVA** ya que siendo un lenguaje de facil nivel, es muy facil usar la abtracción que
-requerimos para llevar las *Ecuaciones Diferenciales* a este lenguaje
+Por se opto por usar [Lombok](https://projectlombok.org/features/), Lombok es una libreria que facilita el uso de
+conceptos de programacion como SETTERS, GETTERS, CONSUCTORES VACIOS, CONTSTRUCTORES CON PARAMETROS, entre otros. Usando
+notaciones como @Getter, para hacer los getters de todos los atributos de una clase
 
-## Herramientas utilizadas
-
-* **Programacion (IDE)**
-    * IntelliJ IDEA ULTIMATE
-* **Documentacion**
-    * WriterSide Jetbrains
-* **Lenguaje De Programación**
-    * JAVA
-* **Librerias**
-    * Lombok [Ver doucmentacion](https://projectlombok.org/features/)
+A continuacion tenemos un ejemplo de como se crearia una clase con Java nativo y usando Lambok
 
 <tabs>
   <tab title="Java Vanilla">
@@ -86,7 +76,7 @@ public class Service {
     }
 }
 </code-block>
-  
+
   </tab>
   <tab title="Java Lambok">
   <code-block lang="java">
@@ -113,7 +103,3 @@ public class Service {
   </code-block>
   </tab>
 </tabs>
-
-
-
-

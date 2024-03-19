@@ -12,8 +12,13 @@
         <toc-element topic="Teoría.md">
             <toc-element topic="Clasificación.md"/>
             <toc-element topic="Grado-y-Orden.md"/>
+            <toc-element topic="Linealidad.md"/>
         </toc-element>
-        <toc-element topic="Practica.md"/>
+        <toc-element topic="Practica.md">
+            <toc-element topic="IDE.md"/>
+            <toc-element topic="WriterSide.md"/>
+            <toc-element topic="Lombok.md"/>
+            <toc-element topic="Programación.md"/>
+        </toc-element>
     </toc-element>
-    <toc-element topic="Programación.md"/>
 </instance-profile>
