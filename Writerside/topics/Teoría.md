@@ -4,20 +4,21 @@
 
 Una ecuacion diferencial es una ecuación que contiene derivadas de una o mas fuinciones.
 
-Las ecuaciones diferenciales pueden clasificar según
-su
-
 Caracteristicas
 
 * Ordinaria
 * Parcial
+
 ---
-* Lineal
+
+* [Lineal](Linealidad.md)
 * No lineal
+
 ---
+
 * Homogenea
-* [Orden](Grado-y-Orden.md "Orden")
-* [Grado](Grado-y-Orden.md "Grado")
+* [Orden](Grado-y-Orden.md)
+* [Grado](Grado-y-Orden.md)
 
 ## Ecuaciones Diferenciales Separables
 
@@ -26,5 +27,6 @@ Caracteristicas
 - Factorizacion
 
 ## Test
+
 - Ejemplos Genearles (Proceso paso a paso)
 

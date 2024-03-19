@@ -8,6 +8,7 @@
     <toc-element topic="Portada.md"/>
     <toc-element topic="Introduccion.md"/>
     <toc-element topic="Problematica.md"/>
+    <toc-element topic="Diagramas-de-flujo.md"/>
     <toc-element topic="Solucion.md">
         <toc-element topic="Teoría.md">
             <toc-element topic="Clasificación.md"/>
@@ -21,4 +22,7 @@
             <toc-element topic="Programación.md"/>
         </toc-element>
     </toc-element>
+    <toc-element topic="Conclusiones.md"/>
+    <toc-element topic="Referencias.md"/>
+    <toc-element topic="Capturas-de-ejecucion.md"/>
 </instance-profile>
