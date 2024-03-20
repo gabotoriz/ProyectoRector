@@ -10,4 +10,36 @@
         <description>Created after removal of "Indice" from Help Instance</description>
         <accepts>Indice.html</accepts>
     </rule>
+    <rule id="3799eea8">
+        <description>Created after removal of "Ordinaria" from Proyecto Rector</description>
+        <accepts>Ordinaria.html</accepts>
+    </rule>
+    <rule id="39fda191">
+        <description>Created after removal of "Parcial" from Proyecto Rector</description>
+        <accepts>Parcial.html</accepts>
+    </rule>
+    <rule id="44f5b3b6">
+        <description>Created after removal of "Linealidad" from Proyecto Rector</description>
+        <accepts>Linealidad.html</accepts>
+    </rule>
+    <rule id="49246412">
+        <description>Created after removal of "No Linealidad" from Proyecto Rector</description>
+        <accepts>No-Linealidad.html</accepts>
+    </rule>
+    <rule id="575f8924">
+        <description>Created after removal of "Homogeneidad" from Proyecto Rector</description>
+        <accepts>Homogeneidad.html</accepts>
+    </rule>
+    <rule id="62ddcdad">
+        <description>Created after removal of "No Homogeneidad" from Proyecto Rector</description>
+        <accepts>No-Homogeneidad.html</accepts>
+    </rule>
+    <rule id="177288f4">
+        <description>Created after removal of "Grado y Orden" from Proyecto Rector</description>
+        <accepts>Grado-y-Orden.html</accepts>
+    </rule>
+    <rule id="1abd6e63">
+        <description>Created after removal of "Separables" from Proyecto Rector</description>
+        <accepts>Separables.html</accepts>
+    </rule>
 </rules>

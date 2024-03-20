@@ -2,23 +2,27 @@
 
 ## Ecuaciones Diferenciales
 
-Una ecuacion diferencial es una ecuación que contiene derivadas de una o mas fuinciones.
+Una ecuación diferencial es una ecuación que involucralas derivadasde una función ***desconocida*** (o variable
+independiente) con respecto a una o mas varibles (variables independientes).
 
-Caracteristicas
+## Clasificación de las Ecuaciones Diferenciales
 
-* [Ordinaria](Ordinaria.md)
-* [Parcial](Parcial.md)
+Las ecuaciones diferenciales se pueden clasificar de acuerdo a lo siguiente
 
----
+| **Ecuación Diferencial Ordinaria** | Si la función desconocida depende de ***una sola variable***   |
+|------------------------------------|----------------------------------------------------------------|
+| **Ecuación Diferencial Parcial**   | Si la función desconocida depende de ***mas de una variable*** |
 
-* [Lineal](Linealidad.md)
-* No lineal
+<!-- ANEXEMOS EJEMPLOS-->
 
----
 
-* Homogenea
-* [Orden](Grado-y-Orden.md)
-* [Grado](Grado-y-Orden.md)
+## Orden de una Ecuacion Diferencial
+
+El orden de una ecuación diferencial es el ***indicado por el índice*** que aparece en la derivada mas alta
+
+<!-- ANEXEMOS EJEMPLOS-->
+
+
 
 ## Ecuaciones Diferenciales Separables
 
