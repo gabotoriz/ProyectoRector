@@ -6,8 +6,8 @@ Una ecuacion diferencial es una ecuación que contiene derivadas de una o mas fu
 
 Caracteristicas
 
-* Ordinaria
-* Parcial
+* [Ordinaria](Ordinaria.md)
+* [Parcial](Parcial.md)
 
 ---
 

@@ -7,6 +7,6 @@ Para poder dar una solucion a esto usaos toda la parte teorica y ponerlo en una 
 
 [Writterside](WriterSide.md "Entorno de desarrollo para documentacion de proyectos")
 
-Java
+JavaFX
 
 [Lombok](Lombok.md "Lombok")
