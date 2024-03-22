@@ -1,5 +1,6 @@
 # Proyecto Rector
-![UTC](utc-logo.png)
+
+<img src="utc-logo.png" alt="UNIVERSIDAD TRES CULTURAS" />
 ## Universidad Tres Culturas
 Campus Neza
 
@@ -7,9 +8,7 @@ Campus Neza
 
 ## Proyecto
 
-Creacion de una aplicacion para la resolucion de Ecuaciones Diferenciales
-
-
+Creacion de un programa para la resolucion de Ecuaciones Diferenciales
 
 ## Yolanda López Rocha
 
@@ -20,6 +19,3 @@ Creacion de una aplicacion para la resolucion de Ecuaciones Diferenciales
 Garcìa Torìz Gabriel
 
 Ortìz Lòpez Dolores Denya
-
-
-
